@@ -1,0 +1,1 @@
+"../Uart.c" "../iso15693.c" "../main.c" "../mcu_clk.c" "../spi.c" "../trf7960a.c" 

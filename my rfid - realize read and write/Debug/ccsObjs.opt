@@ -1,0 +1,1 @@
+"./trf7960a.obj" "./spi.obj" "./mcu_clk.obj" "./main.obj" "./iso15693.obj" "./Uart.obj" -l"libc.a" "../lnk_msp430g2553.cmd" 
